@@ -1,9 +1,9 @@
+[Curriculum Vitae](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeongwonkwak&show_icons=true)
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwonkwak)
 -->
-
-
 <!--
 **jeongwonkwak/jeongwonkwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
