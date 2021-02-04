@@ -1,6 +1,6 @@
 🔭 Research Interests
 ---
-- Natural language processing
+- Natural Language Processing
 - Multi-Modal Learning
 ---
 * [Curriculum Vitae](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)
