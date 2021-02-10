@@ -2,7 +2,7 @@
 ---
 - Natural Language Processing
 - Multi-Modal Learning
----
+
 📚 Majored in 
 ---
 - Data Science, Dept. of Information Convergence ~ Kwangwoon Univ. 2021  
