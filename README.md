@@ -3,6 +3,11 @@
 - Natural Language Processing
 - Multi-Modal Learning
 ---
+📚 Majored in 
+---
+- Data Science, Dept. of Information Convergence ~ Kwangwoon Univ. 2021  
+---
+
 * [Curriculum Vitae](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeongwonkwak&show_icons=true)
