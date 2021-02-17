@@ -1,5 +1,6 @@
 🔭 Research Interests
 ---
+- Medical AI
 - Natural Language Processing
 - Multi-Modal Learning
 
