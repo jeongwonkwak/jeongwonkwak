@@ -6,7 +6,7 @@
 
 📚 Majored in 
 ---
-- (2017.03 ~ 2021.02) B.S., Major in Data Science, Dept. of Information Convergence, *Kwangwoon Univ.*  
+- (2017.03 ~ 2021.02) B.S. in Information Convergence (Major in Data Science), *Kwangwoon University*  
 ---
 
 * [Curriculum Vitae](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)
