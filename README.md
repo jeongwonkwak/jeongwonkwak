@@ -1,5 +1,5 @@
-*Hello :wave: I'm jeongwon 
-**Here is my [CV](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)***
+*Hello, I'm **jeongwon**. I'm a MS student at medical information lab in SNU. Here is my [CV](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)*
+
 
 🔭 Research Interest
 ---
