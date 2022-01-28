@@ -1,16 +1,23 @@
-🔭 Research Interests
+*Hello :wave: I'm jeongwon 
+**Here is my [CV](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)***
+
+🔭 Research Interest
 ---
-- Medical AI
-- Natural Language Processing
+- Deep Learning in Medical domain
+- Natural Language Processing  
 - Multi-Modal Learning
 
 📚 Majored in 
 ---
-- (2017.03 ~ 2021.02) B.S. in Information Convergence (Major in Data Science), *Kwangwoon University*  
+- `2022.03 ~ (current)` MS, Bioengineering, *Seoul National University Graduate School* 
+- `2017.03 ~ 2021.02` BS, Information Convergence (Major in Data Science), *Kwangwoon University*  
+
+:herb: Work Experience 
 ---
+- `2021.03 ~ 2022.02` Biomedical Research Intern, *Seoul National University Hospital*
 
-* [**Curriculum Vitae**](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)
 
+---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeongwonkwak&show_icons=true)
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwonkwak)
