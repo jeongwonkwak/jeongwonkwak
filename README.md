@@ -9,7 +9,7 @@
 
 📚 Majored in 
 ---
-- `2022.03 ~ (current)` MS, Bioengineering, *Seoul National University Graduate School* 
+- `2022.03 ~ (current)` MS, M.S. student @SNUnow Interdisciplinary Program of Bioengineering, *Seoul National University Graduate School* 
 - `2017.03 ~ 2021.02` BS, Information Convergence (Major in Data Science), *Kwangwoon University*  
 
 :herb: Work Experience 
