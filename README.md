@@ -14,7 +14,7 @@
 
 :herb: Work Experience 
 ---
-- `2021.03 ~ 2022.02` Biomedical Research Intern, *Seoul National University Hospital*
+- `2021.03 ~ 2022.02` Biomedical Research Intern, *Seoul National University*
 
 
 ---
