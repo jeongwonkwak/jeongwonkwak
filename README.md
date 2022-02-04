@@ -1,18 +1,18 @@
 *I'm a MS student at medical information lab in SNU. Here is my [**CV 📥**](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf).*
 
 
-🔭 Research Interest
+Research Interest
 ---
 - Deep Learning in Medical domain
 - Natural Language Processing  
 - Multi-Modal Learning
 
-📚 Majored in 
+Education 
 ---
-- `2022.03 ~ (current)` MS, Interdisciplinary Program of Bioengineering, *Seoul National University Graduate School* 
+- `2022.03 ~ (current)` MS, Interdisciplinary Program of Bioengineering, *Seoul National University* 
 - `2017.03 ~ 2021.02` BS, Information Convergence (Major in Data Science), *Kwangwoon University*  
 
-:herb: Work Experience 
+Work Experience 
 ---
 - `2021.03 ~ 2022.02` Biomedical Research Intern, *Seoul National University*
 
