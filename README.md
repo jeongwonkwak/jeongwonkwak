@@ -9,7 +9,7 @@ Research Interest
 
 Education 
 ---
-- `2022.03 ~ (current)` MS, Interdisciplinary Program of Bioengineering, *Seoul National University* 
+- `2022.03 ~ (present)` MS, Interdisciplinary Program of Bioengineering, *Seoul National University* 
 - `2017.03 ~ 2021.02` BS, Information Convergence (Major in Data Science), *Kwangwoon University*  
 
 Work Experience 
