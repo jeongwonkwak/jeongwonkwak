@@ -1,27 +1,21 @@
-*I'm a MS student at medical information lab in SNU. Here is my [**CV 📥**](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf).*
+*Hi, please feel free to visit my [**CV📥**](https://github.com/jeongwonkwak/jeongwonkwak/blob/main/Jeongwon%20Kwak%20CV.pdf)!* 🐣
 
 
 Research Interest
 ---
-- Deep Learning in Medical domain
-- Natural Language Processing  
-- Multi-Modal Learning
+- Natural Language Processing
+- Digital Healthcare
+- Speech Recognition Processing
 
 Education 
 ---
-- `2022.03 ~ 2024.02` MS, Interdisciplinary Program of Bioengineering, *Seoul National University* 
-- `2017.03 ~ 2021.02` BS, Information Convergence (Major in Data Science), *Kwangwoon University*  
+- **MS** - Major in Interdisciplinary Program of Bioengineering, *Seoul National University* `2022.03 - 2024.02` 
+- **BS** - Major in Data Science, *Kwangwoon University* `2017.03 - 2021.02`
 
 Work Experience 
 ---
-- `2021.03 ~ 2022.02` Biomedical Research Intern, *Seoul National University*
+- NLP Research Intern, *Seoul National University Hospital* `2021.03 - 2022.02` 
 
-
----
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jeongwonkwak&show_icons=true)
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwonkwak)
--->
 
 
 <!--
